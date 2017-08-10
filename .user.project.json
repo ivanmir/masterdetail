@@ -1,0 +1,22 @@
+{
+  "run": [
+    {
+      "filePath": "/RoutingMasterDetail.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 2801796,
+        "displayName": "Run RoutingMasterDetail.html",
+        "lastRunTimeStamp": 1502380260678
+      }
+    }
+  ]
+}

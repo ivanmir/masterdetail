@@ -1,0 +1,10 @@
+<View 
+	xmlns="sap.m"
+	controllerName="sap.ui.core.sample.RoutingMasterDetail.routingApp.controller.App"
+>
+	<SplitApp 
+		id="rootControl" 
+		mode="HideMode"
+	/>
+	
+</View>
